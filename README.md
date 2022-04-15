@@ -1,7 +1,6 @@
-<center>
-  <h1>Hello and welcome to my github</h1>
-  <h2>you should checkout my <a href="http://lewibs.com/">website</a></h2>
-</center>
+
+<h1>Hello and welcome to my github</h1>
+<h3>you should checkout my <a href="http://lewibs.com/">website</a></h3>
 
 <br/>
   <p align="left">
