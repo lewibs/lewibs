@@ -1,8 +1,9 @@
+<h1>Hello and welcome to my github</h1>
+<h4>you should checkout my <a href="http://lewibs.com/">website</a></h4>
+
 <br/>
   <p align="left">
-    <a href="https://abhigyantrips.dev/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=lewibs&show_icons=true&theme=gruvbox&hide_border=true" />
-      <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lewibs&theme=gruvbox&hide_border=true" />
-    </a>
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lewibs&theme=gruvbox&hide_border=true" />
   </p>
 <br>
