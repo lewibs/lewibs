@@ -1,6 +1,6 @@
 
 <h1>Hello and welcome to my github</h1>
-<h3>you should checkout my <a href="http://lewibs.com/">website</a></h3>
+<h3>you should checkout my <a href="http://lewibs.com/">website</a></h3>. It has all my contact info but I really just like showing it off :)
 
 <br/>
   <p align="left">
